@@ -19,3 +19,4 @@ streamlit
 datasets
 ragas
 rank-bm25
+python-telegram-bot

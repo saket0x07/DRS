@@ -18,6 +18,9 @@ __pycache__/
 # Local data / caches
 app/data/faiss_index/index.faiss
 app/data/faiss_index/index.pkl
+app/data/resumes/*
+!app/data/resumes/.gitkeep
+*.csv
 
 # IDE / OS files
 .vscode/
