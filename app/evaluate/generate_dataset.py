@@ -23,6 +23,17 @@ questions = [
     "Who has worked with Java?",
     "Which candidate has experience in recruitment?",
     "Compare Saket Gupta and Saloni Gupta.",
+    "What is ananya expertise",
+    "im seeking to hire an hr professional",
+    "Who worked with amazon",
+    "What is the educational background of Pooja Bhat?",
+    "Who is jason miller",
+    "Compare Jason Miller and john huber",
+    "kristen connelly work experience ?",
+    "Has anyone worked in Mindtree?",
+    "Who has experience in software engineering?",
+    "whats lopez background. whoes background is related to hers ?",
+    "who is  loice bennett  "
 ]
 
 

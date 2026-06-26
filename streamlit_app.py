@@ -6,7 +6,7 @@ from app.rag.chain import rag_chain
 API_URL = "http://127.0.0.1:8000"
 
 st.set_page_config(
-    page_title="DOCUMENT RETRIEVAL ASSISTANT",
+    page_title="DRS",
     page_icon="🤖",
     layout="wide"
 )
