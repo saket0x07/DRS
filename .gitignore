@@ -1,0 +1,26 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (credentials, API keys)
+.env
+.env.local
+.env.*
+
+# Local data / caches
+app/data/faiss_index/index.faiss
+app/data/faiss_index/index.pkl
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

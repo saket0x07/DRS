@@ -1,0 +1,121 @@
+question,answer,retrieved_contexts,candidate_names,retriever_sources,ground_truth
+Tell me about Saket Gupta.,I couldn't find this information in the resume.,,,,
+What are Saket's Technical Skills?,I couldn't find this information in the resume.,,,,
+What Project has Saket worked on?,I couldn't find this information in the resume.,,,,
+Who is Saloni Gupta?,I couldn't find this information in the resume.,,,,
+What HR experiences does Saloni have?,I couldn't find this information in the resume.,,,,
+Which candidate has experience in FastAPI?,I couldn't find this information in the resume.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+How many years of experience does Priya have?,I couldn't find this information in the resume.,,,,
+What is Priya's current role?,I couldn't find this information in the resume.,,,,
+Who knows Python?,Aditya Verma knows Python.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+Who worked in 360DigiTMG?,I couldn't find this information in the resume.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+Who worked in Infosys?,I couldn't find this information in the resume.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+Which candidate knows Machine Learning?,Aditya Verma – the resume states he is a Data Scientist with experience building predictive models and machine learning pipelines.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+Who has HR experience?,I couldn't find this information in the resume.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+Who has worked with Java?,I couldn't find this information in the resume.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+Which candidate has experience in recruitment?,I couldn't find this information in the resume.,"
+========== Document 1 ==========
+Candidate : Aditya Verma Resume
+Source    : app\data\resumes\Aditya_Verma_Resume.pdf
+
+Aditya Verma
+Data Scientist
+Gurugram, Haryana  |  +91 98100 01234  |  aditya.verma@email.com  |  linkedin.com/in/adityaverma
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience building predictive models and machine learning pipelines for healthcare 
+and fintech applications. Strong foundation in statistics, Python, and large-scale data processing.
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist — Paytm Analytics 2020 - Present
+",Aditya Verma Resume,app\data\resumes\Aditya_Verma_Resume.pdf,
+Compare Saket Gupta and Saloni Gupta.,I couldn't find this information in the resume.,,,,
